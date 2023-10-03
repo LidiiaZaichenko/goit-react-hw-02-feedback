@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LidiiaZaichenko/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/LidiiaZaichenko/goit-react-hw-02-feedback/static/js/main.22c50e74.js",
+    "index.html": "/LidiiaZaichenko/goit-react-hw-02-feedback/index.html",
+    "main.7acaea2f.css.map": "/LidiiaZaichenko/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
+    "main.22c50e74.js.map": "/LidiiaZaichenko/goit-react-hw-02-feedback/static/js/main.22c50e74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.22c50e74.js"
+  ]
+}
